@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": {
+        "title": "fasd",
+        "body": "qwerqwe",
+        "id": 4
+      },
+      "body": {
+        "title": "fasd",
+        "body": "qwerqwe",
+        "id": 4
+      },
+      "id": 4
+    },
+    {
+      "title": "qwefasd",
+      "body": "qwefasdqwe",
+      "id": 5
+    }
+  ]
+}
